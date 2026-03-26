@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="banner.png" alt="Trần Vĩnh Huy Banner" width="100%">
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Trần+Vĩnh+Huy+👋;Prompt+Engineer+(AI);Full-Stack+%22Vibe%22+Coder;Cyber+Security+Enthusiast" alt="Typing SVG" />
   <br>
   <img src="https://media.giphy.com/media/qgQUggCGvnPfa/giphy.gif" width="180" alt="Coding GIF">
@@ -59,6 +65,25 @@ When I'm not writing prompts or deploying containers, you can find me analyzing 
   <a href="mailto:tranvinhhuy.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-tranvinhhuy.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>⚓ My Philosophy</h3>
+  <table>
+    <tr>
+      <td align="center" width="600">
+        <br>
+        <i>“For God gave us a spirit not of fear but of power and love and self-control.”</i><br>
+        <b>— 2 Timothy 1:7</b>
+        <br><br>
+        <i>“I can do all things through him who strengthens me.”</i><br>
+        <b>— Philippians 4:13</b>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
