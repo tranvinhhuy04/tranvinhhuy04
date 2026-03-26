@@ -10,8 +10,13 @@
   <img src="https://media.giphy.com/media/qgQUggCGvnPfa/giphy.gif" width="180" alt="Coding GIF">
 </div>
 
-### 🚀 Quick Bio
-IT student @ Sai Gon University blending **Deep AI Research** with **Full-Stack "Vibe Coding"**. I focus on seamlessly integrating GenAI into real-world applications and building scalable architectures.
+### My Biography 
+I specialize in **Prompt Engineering (GenAI/NLP)** and what I call **"Vibe Code"** in Full-Stack Development and Security. This means crafting intuitive, AI-assisted architectures—whether migrating complex lifecycles from Python to Java to .NET, orchestrating microservices behind an API Gateway, or building fast, scalable frontends with React and Next.js. I believe code shouldn't just work; it should flow seamlessly.
+
+### 🚀 Core Strengths & Superpowers
+
+* 🧠 **AI & Prompt Engineering:** Beyond just using LLMs, I understand the underlying mechanics. I have hands-on experience with PyTorch, Hugging Face (Transformers), and statistical analysis. This allows me to craft precise, context-aware prompts and automate workflows using tools like n8n.
+* ⚡ **Full-Stack "Vibe":** From designing database schemas and backend APIs to managing microservices and Docker containers. I love working in an Agile environment to deliver clean, maintainable systems.
 
 ### 🛠️ Tech Arsenal
 
