@@ -1,76 +1,64 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Trần+Vĩnh+Huy+👋;AI+Prompt+Engineer;Full-Stack+%22Vibe%22+Coder;Cyber+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Trần+Vĩnh+Huy+👋;Prompt+Engineer+(AI);Full-Stack+%22Vibe%22+Coder;Cyber+Security+Enthusiast" alt="Typing SVG" />
+  <br>
+  <img src="https://media.giphy.com/media/qgQUggCGvnPfa/giphy.gif" width="180" alt="Coding GIF">
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
-</p>
-
-### 📖 The Story: From Deep Research to "Vibe Coding"
-[cite_start]I am an Information Technology student at Sai Gon University [cite: 12, 13] [cite_start]with a relentless passion for solving complex problems through code and data. 
-
-[cite_start]My journey started in the realm of deep research—building explainable AI for pneumonia diagnosis using Bayesian Networks [cite: 26, 27] [cite_start]and training multi-task speech recognition models using PhoWhisper[cite: 31, 32]. However, the tech landscape evolves, and so do I. Today, my focus is bridging the gap between cutting-edge AI models and real-world applications.
-
-I specialize in **Prompt Engineering (GenAI/NLP)** and what I call **"Vibe Code"** in Full-Stack Development and Security. This means crafting intuitive, AI-assisted architectures—whether migrating complex lifecycles from Python to Java to .NET, orchestrating microservices behind an API Gateway, or building fast, scalable frontends with React and Next.js. I believe code shouldn't just work; it should flow seamlessly.
-
----
-
-### 🚀 Core Strengths & Superpowers
-
-* 🧠 **AI & Prompt Engineering:** Beyond just using LLMs, I understand the underlying mechanics. [cite_start]I have hands-on experience with PyTorch, Hugging Face (Transformers) [cite: 18][cite_start], and statistical analysis. This allows me to craft precise, context-aware prompts and automate workflows using tools like n8n.
-* [cite_start]⚡ **Full-Stack "Vibe":** From designing database schemas and backend APIs [cite: 37] [cite_start]to managing microservices and Docker containers[cite: 23]. [cite_start]I love working in an Agile environment [cite: 39] to deliver clean, maintainable systems.
-* 🔬 **Award-Winning Mindset:** I don't just build; I research and optimize. [cite_start]My scientific projects have scored 92/100 and reached the semi-finals of the 27th Eureka Scientific Research Competition. [cite_start]I've also maintained a Merit-Based Scholarship for 5 consecutive semesters [cite: 45] [cite_start]with a GPA of 3.33/4[cite: 14].
-
----
+### 🚀 Quick Bio
+IT student @ Sai Gon University blending **Deep AI Research** with **Full-Stack "Vibe Coding"**. I focus on seamlessly integrating GenAI into real-world applications and building scalable architectures.
 
 ### 🛠️ Tech Arsenal
 
-<div align="center">
+**Languages & Frameworks** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+**AI & Data** <br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFAA00?style=flat-square&logo=huggingface&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
-**AI & Data Science**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+**Databases & Tools** <br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)
 
-**Web & Architecture**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</div>
-
----
-
-### ⚔️ Recent Quests & Side Missions
-
-* 🤖 **AI Workflow Automation:** Building Telegram bots using n8n for dynamic media scheduling and suggestions.
-* 🎓 **EdTech Architecture:** Developing a microservices-based IELTS preparation platform, routing traffic through robust API Gateways.
-* [cite_start]🏥 **Healthcare AI:** Developed a pneumonia diagnosis system using Bayesian Networks + FNN, providing probabilistic explanations for clinical decisions[cite: 27, 29].
-* [cite_start]🍔 **E-commerce Backend:** Designed database schemas and APIs for a fast-food delivery system, completely documented with user stories and acceptance criteria[cite: 35, 36, 37].
-
----
+### ⚔️ Current Quests
+* 🧠 **AI Research:** Building explainable Bayesian Networks (Scored 92/100) & multi-task PhoWhisper speech recognition.
+* ⚙️ **Architecture:** Orchestrating microservices behind API Gateways for an IELTS prep platform and managing complex software migrations (Python → Java → .NET).
+* 🤖 **Automation:** Building dynamic media suggestion bots using n8n.
+* 🍔 **Backend:** Designing robust e-commerce APIs with documented Agile user stories.
 
 ### 🧩 Off-Screen Vibes
-When I'm not configuring an API Gateway or writing prompts for a GenAI model, you can usually find me analyzing Shi Yu Qi's badminton footwork, watching documentaries about complex aviation events like the Tenerife disaster, or trying to figure out why my Mai Chieu Thuy plant is deciding to wilt today.
+When I'm not writing prompts or deploying containers, you can find me analyzing Shi Yu Qi's badminton footwork, watching documentaries on the Tenerife airport disaster, or figuring out how to revive my Mai Chieu Thuy plant.
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tranvinhhuy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tranvinhhuy.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvinhhuy04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tranvinhhuy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinh_Huy_Tran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tranvinhhuy.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tranvinhhuy.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <p align="center">
