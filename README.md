@@ -4,13 +4,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Trần+Vĩnh+Huy+👋;Prompt+Engineer+(AI);Full-Stack+%22Vibe%22+Coder;Cyber+Security+Enthusiast" alt="Typing SVG" />
-  <br>
-  <img src="https://media.giphy.com/media/qgQUggCGvnPfa/giphy.gif" width="180" alt="Coding GIF">
-</div>
 
-### My Biography 
+
+### ✍️ My Biography 
 I specialize in **Prompt Engineering (GenAI/NLP)** and what I call **"Vibe Code"** in Full-Stack Development and Security. This means crafting intuitive, AI-assisted architectures—whether migrating complex lifecycles from Python to Java to .NET, orchestrating microservices behind an API Gateway, or building fast, scalable frontends with React and Next.js. I believe code shouldn't just work; it should flow seamlessly.
 
 ### 🚀 Core Strengths & Superpowers
