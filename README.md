@@ -53,8 +53,9 @@ When I'm not writing prompts or deploying containers, you can find me analyzing 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvinhhuy04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="48%"/>
+  
+  <img src="https://streak-stats.demolab.com?user=tranvinhhuy04&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
 </div>
 
 <br>
