@@ -48,7 +48,7 @@ I specialize in **Prompt Engineering (GenAI/NLP)** and what I call **"Vibe Code"
 * 🍔 **Backend:** Designing robust e-commerce APIs with documented Agile user stories.
 
 ### 🧩 Off-Screen Vibes
-When I'm not writing prompts or deploying containers, you can find me analyzing Shi Yu Qi's badminton footwork, watching documentaries on the Tenerife airport disaster, or figuring out how to revive my Mai Chieu Thuy plant.
+When I'm not writing prompts or deploying containers, you can find me analyzing Shi Yu Qi's badminton footwork
 
 <br>
 
@@ -61,12 +61,9 @@ When I'm not writing prompts or deploying containers, you can find me analyzing 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tranvinhhuy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinh_Huy_Tran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tranvinhhuy.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tranvinhhuy.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="48%"/>
+  
+  <img src="https://streak-stats.demolab.com?user=tranvinhhuy04&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
 </div>
 
 <br>
