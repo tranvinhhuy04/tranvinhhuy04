@@ -66,11 +66,18 @@ When I'm not writing prompts or deploying containers, you can find me analyzing 
   </a>
   
   <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=tranvinhhuy04&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=3600" width="48%" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranvinhhuy04&layout=compact&theme=tokyonight&cache_seconds=3600" height="180em" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvinhhuy04&theme=tokyonight&cache_seconds=3600" alt="GitHub Streak" />
+</div>
 <br>
 
 <div align="center">
