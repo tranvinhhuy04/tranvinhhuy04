@@ -64,19 +64,22 @@ When I'm not writing prompts or deploying containers, you can find me analyzing 
   <a href="mailto:tranvinhhuy.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
-  <br><br>
 </div>
 
+<br><br>
+
+### 📊 GitHub Stats
+<hr>
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranvinhhuy04&layout=compact&theme=tokyonight&cache_seconds=3600" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranvinhhuy04&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600" height="195" alt="My GitHub Statistics" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranvinhhuy04&layout=compact&theme=tokyonight&cache_seconds=3600" height="195" alt="My Programming Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvinhhuy04&theme=tokyonight&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvinhhuy04&theme=tokyonight&cache_seconds=3600" height="195" alt="GitHub Streak" />
 </div>
 <br>
 
